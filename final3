@@ -1,0 +1,8 @@
+
+Num = int(input('Number :'))
+Ans = 1
+
+while Num > 1 :
+    Ans *= Num
+    Num -= 1
+print(Ans)
