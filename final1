@@ -1,0 +1,6 @@
+Num = int(input('ค่าตัวเลข :')) 
+Ans = Num % 2 
+if Ans == 0:
+    print('EVEN')
+else :
+    print('ODD')
