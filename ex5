@@ -1,0 +1,8 @@
+total = 0
+counter = 1
+n = int(input('How many numbers :'))
+while counter <= n :
+    x = float(input("Number:"))
+    total += x
+    counter += 1
+print('Total =',total)
