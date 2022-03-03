@@ -1,0 +1,4 @@
+name = input("Enter your name :")
+if name == "จัน":
+  print("จัน, I love you.")
+print("What a wonderful world!")
