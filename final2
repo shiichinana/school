@@ -1,0 +1,8 @@
+Score1 = int(input('คะแนนที่1:')) 
+Score2 = int(input('คะแนนที่2:')) 
+Score3 = int(input('คะแนนที่3:')) 
+Ans = Score1 + Score2 + Score3 
+if Ans >= 60 : 
+  print('PASS')
+else : 
+  print('FAIL')
